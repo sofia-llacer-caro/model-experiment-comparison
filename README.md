@@ -1,2 +1,2 @@
-# Project on the comparison between model-generated and experimental data
+# Comparison between modelled and experimental data for the flux of fluorine cosmic rays
 This is a project I worked on during the third year of my Physics BSc for the course Astroparticle Physics. The aim of the assignment was to compare experimental data for the flux of a particular species of cosmic rays to the data obtained from computational models in which different parameters of the simulation were varied. For more information on the reasoning behind the model, please refer to the final report available on the repository.
