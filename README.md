@@ -9,4 +9,3 @@ In order to answer this question, a 3-step approach was followed:
 1. Data retrieval
 2. Data analysis
 3. Data visualization
-
